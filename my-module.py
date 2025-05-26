@@ -24,7 +24,7 @@ def calculate(a, b, operation):
 
     Returns:
         float: The result of the arithmetic operation.
-
+# this accounts for the valueerror
     Raises:
         ValueError: If an invalid operation is provided or division by zero is attempted.
     """
